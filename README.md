@@ -18,3 +18,5 @@ How to work with this project :
 7- this project also use log4j2-spring
 
 8- Run the Main file and the mail will be successfully sent to the receiver.
+
+9- sending email using spring schedular
